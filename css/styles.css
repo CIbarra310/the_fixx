@@ -1,0 +1,29 @@
+body {
+    background-color: #181818;
+    color: #E0E0E0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #3B3B3B; /* Dark, stone-like */
+}
+
+.navbar-brand {
+    font-family: 'Cinzel', serif;
+    color: #C0A060 !important;
+}
+
+.btn-danger {
+    background-color: #D40000;
+    border-color: #A50000;
+}
+
+.jumbotron {
+    background: linear-gradient(to right, #550000, #181818);
+    color: #E0E0E0;
+}
+
+.footer {
+    background: url('images/embers.jpg');
+    color: #C0A060;
+}
